@@ -1,2 +1,2 @@
 # Adicionando numeros com JavaScript
-- Projeto de adicionar numeros utilizando JavaScrit
+Projeto de adicionar numeros utilizando JavaScrit
